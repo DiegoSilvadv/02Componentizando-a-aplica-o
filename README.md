@@ -44,7 +44,7 @@ $ yarn dev
 ```
 Para iniciar o servidor da que busca os filmes siga as intruções:
 ```bash
-# Em um terminal separado, execute o comando abaixo e a API esta disponivel http://localhost:3333
+# Em um terminal separado, execute o comando abaixo e a API vai esta disponivel em http://localhost:3333
 $ yarn server
 ```
 O app estará disponível no seu browser pelo endereço http://localhost:8080.
